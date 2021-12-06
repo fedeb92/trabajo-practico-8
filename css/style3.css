@@ -1,0 +1,31 @@
+.aguacantaLogo
+{
+    display: flex;
+    justify-content:space-around;
+    padding: 10px;
+}
+.videoMain
+{display: flex;
+justify-content: center;}
+.parrafo
+{text-align: center;}
+.contendoresFooters
+{
+    padding: 20px;
+    background-color: rgb(90, 128, 0);
+    display: flex;
+    justify-content:space-evenly;
+}
+.container
+{
+    padding: 10px;
+}
+.aguacantaLogo
+{
+    display: flex;
+    justify-content: center;
+}
+.fotoQs1
+{   
+    display: flex;
+    justify-content:end;}
